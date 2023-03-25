@@ -15,8 +15,7 @@
                     {
                         "type": "css",
                         "target": {
-                            "selector": ".cookie-notice",
-                            "displayFilter": true
+                            "selector": ".cookie-notice"
                         }
                     }
                 ]
